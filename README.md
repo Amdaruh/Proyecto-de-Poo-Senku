@@ -65,5 +65,5 @@ Se juega con un tablero con diferentes formas según el modelo o el lugar de ori
 ## Integrantes
 Alex Antony Rodriguez Minaya 
 Adrian Enrique Ojeda Salazar 
-Chamli
+Chang Li
 
