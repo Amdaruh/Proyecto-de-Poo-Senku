@@ -4,7 +4,7 @@ Senku (conocido también con el nombre de "Uno Solo", y en inglés como "Peg Sol
 En este proyecto hemos intentado recrear el juego en su totalidad utilizando el lenguaje de programación: C++, como base. 
 
 ## Requisitos
-Se neceista de una PC con 6gb de ram recomendable.
+Se neceista de una PC o laptop con 6gb de ram recomendable.
 El lenguaje de progrmacion C++
 Se necesita de un IDE(integrated development environment) o un compilador que funicone con C++
 
